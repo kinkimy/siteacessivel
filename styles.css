@@ -23,7 +23,8 @@ section {
 }
 
 .nav-img {
-    size: 25%;
+    width: 50px;
+    height: 50px;
 }
 
 .inicio-fundo {
