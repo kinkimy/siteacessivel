@@ -23,7 +23,7 @@ section {
 }
 
 .nav-img {
-    background-position: left top;
+    padding-left: 0%;
     width: 160px;
     height: 160px;
 }
