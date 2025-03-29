@@ -23,6 +23,8 @@ section {
 }
 
 .nav-img {
+    position: fixed;
+    left: 0pt;
     width: 200px;
     height: 200px;
 }
