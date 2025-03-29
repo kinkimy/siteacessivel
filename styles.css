@@ -28,6 +28,10 @@ section {
     height: 160px;
 }
 
+.nav-link {
+    background-color: #0fc746;
+}
+
 .inicio-fundo {
     /* aula 3 */
     background-image: url('panda-dormindo.png');
