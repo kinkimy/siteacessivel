@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #292929;
+    background-color: #ffffff;
 }
 
 
@@ -142,7 +142,7 @@ h2 {
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #000000;
 }
 .menu-acessibilidade{
     position: fixed;
