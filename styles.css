@@ -34,7 +34,8 @@ section {
 }
 
 .div-video {
-    background-position: center center;
+    display: grid;
+    place-items: center;
 }
 
 .inicio-fundo {
