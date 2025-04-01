@@ -33,6 +33,10 @@ section {
     color: #000000;
 }
 
+.div-video {
+    background-position: center center;
+}
+
 .inicio-fundo {
     background-size: cover;
     background-position: right;
