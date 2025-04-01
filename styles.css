@@ -120,6 +120,11 @@ h2 {
     height: 200px;
 }
 
+.col-md-4 img:hover {
+    opacity: 1.0;
+    border: 3px solid rgb(63, 196, 63);
+}
+
 .fundo-galeria {
     background: url('img/flor-bottom-direita.png') bottom right no-repeat;
     background-size: 180px 180px;
