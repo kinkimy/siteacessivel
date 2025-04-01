@@ -23,13 +23,14 @@ section {
 }
 
 .nav-img {
-    padding: 1px 1px;
     width: 200px;
     height: 200px;
+    margin: 10px;
+    background-position: left top;
 }
 
 .nav-link {
-    color: #0fc746;
+    color: #000000;
 }
 
 .inicio-fundo {
