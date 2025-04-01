@@ -115,9 +115,9 @@ h2 {
 
 }
 
-.col-md-4 {
-    width: 200;
-    height: 200;
+.col-md-4 img {
+    opacity: 0.5;
+    height: 200px;
 }
 
 .fundo-galeria {
