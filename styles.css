@@ -115,6 +115,11 @@ h2 {
 
 }
 
+.col-md-4 {
+    width: 200;
+    height: 200;
+}
+
 .fundo-galeria {
     background: url('img/flor-bottom-direita.png') bottom right no-repeat;
     background-size: 180px 180px;
