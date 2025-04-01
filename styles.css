@@ -44,6 +44,7 @@ section {
     height: 606px;
     padding: 40px;
     margin: 0 auto;
+    border-color: rgb(8, 185, 8);
 }
 
 /* posicionamento para a imagem à direita */
