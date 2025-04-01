@@ -38,10 +38,6 @@ section {
     place-items: center;
 }
 
-.botao {
-    background-position: center;
-}
-
 .inicio-fundo {
     background-size: cover;
     background-position: right;
