@@ -88,8 +88,8 @@ section {
     margin-top: 3rem;
     margin-bottom: 3rem;
     background: url('img/panda-sentado.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
-    background-size: 180px 180px;
+       bottom left no-repeat;
+    background-size: 190px 190px;
     /* Ajuste o tamanho conforme necessário */
 }
 
