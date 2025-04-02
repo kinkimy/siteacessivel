@@ -83,6 +83,9 @@ section {
 
 
 #tropicalia {
+    background-image: url('img/fundo-verde.jpg');
+    background-repeat: no-repeat;
+    border-radius: 10px;
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
