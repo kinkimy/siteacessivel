@@ -124,7 +124,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/fundo-verde.jpg') bottom right no-repeat;
+    background-image: url('img/fundo-verde.jpg') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
