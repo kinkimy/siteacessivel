@@ -123,11 +123,6 @@ h2 {
     border: 3px solid rgb(63, 196, 63);
 }
 
-.fundo-galeria {
-    background: url('img/fundo-verde.jpg') bottom right no-repeat;
-    background-size: 180px 180px;
-}
-
 #contato {
     background-image: url('img/4965007.jpg');
     background-size: cover;
