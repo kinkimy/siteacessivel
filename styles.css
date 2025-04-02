@@ -39,6 +39,7 @@ section {
 }
 
 .inicio-fundo {
+    background-image: url('img/fundo-verde.jpg');
     background-size: cover;
     background-position: right;
     border-radius: 5px;
