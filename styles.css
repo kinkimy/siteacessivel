@@ -15,7 +15,6 @@ body {
 
 header {
     background-color: #87f578;
-    border-radius: 50%;
 }
 
 
@@ -43,12 +42,12 @@ section {
     background-image: url('img/fundo-verde.jpg');
     background-size: cover;
     background-position: right;
-    border-radius: 5px;
+    border-radius: 50%;
     width: 100%;
     height: 606px;
     padding: 40px;
     margin: 0 auto;
-    color: #95B963;
+    color: #4f672e;
 }
 
 /* posicionamento para a imagem à direita */
@@ -113,7 +112,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #47f801;
 
 }
 
